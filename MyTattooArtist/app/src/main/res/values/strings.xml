@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyTattooArtist</string>
+    <string name="myaccount">My account</string>
+    <string name="logout">Log out</string>
+    <string name="profileNameTag">Name:</string>
+    <string name="profileMailTag">e-mail:</string>
+    <string name="profileCityTag">City:</string>
+    <string name="profilePasswordTag">Password:</string>
+    <string name="profileUsernameTag">Username:</string>
+    <string name="changePasswordButton">Change Password</string>
+    <string name="profileAddressTag">Location:</string>
+    <string name="profilePhoneTag">Phone number:</string>
+    <string name="profileSocialsTag">Socials</string>
+    <string name="facebook_application_id" translatable="false">578819726735017</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">MyTattooArtist</string>
+    <string name="facebook_app_id">578819726735017</string>
+    <string name="fb_login_protocol_scheme">fb578819726735017</string>
+    <string name="sign_in_success">Signed in successfully!</string>
+    <string name="sign_out_success">Signed out successfully!</string>
+    <string name="artist_image">artist_image</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="filter">Filter your feed</string>
+    <string name="styleTitle">Choose your styles:</string>
+    <string name="textButton">Click this</string>
+    <string name="black_white"><![CDATA[Black & White]]></string>
+    <string name="watercolor">Watercolor</string>
+    <string name="old_school">Old school</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="personTitle">Pick a gender:</string>
+    <string name="distanceTitle">Set distance range:</string>
+    <string name="favourites">Favourites</string>
+    <string name="no_favourites">You have no favourite artists yet</string>
+    <string name="welcome">Welcome to MyTattooArtist!</string>
+    <string name="choose_role">Choose your user role:</string>
+    <string name="choose_location">Choose location:</string>
+    <string name="client_radiobutton">I\'m interested in Tattoos</string>
+    <string name="artist_radiobutton">I\'m an Tattoo Artist</string>
+    <string name="choose_role_button">Submit</string>
+    <string name="userRoleSelectionError">You must select a user role!</string>
+    <string name="locationSelectionError">You must select location!</string>
+    <string name="firstName">First name</string>
+    <string name="lastName">Last name</string>
+    <string name="nameInputError">You must input your name and phone number</string>
+    <string name="phoneNumber">Phone</string>
+    <string name="reset">RESET</string>
+</resources>
